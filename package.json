@@ -1,0 +1,16 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "WEB SERVER",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "John Nicholas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
